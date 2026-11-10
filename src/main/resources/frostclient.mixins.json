@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "package": "dev.frostclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MouseHandlerMixin",
+    "CrosshairMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
